@@ -1,0 +1,27 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compressed output files (optional)
+*.huff
+
+# Backup files
+*.bak
